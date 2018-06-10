@@ -12,4 +12,4 @@ This project will remain open source.  Feel free to contribute!
 Links
 -----
 
-- `Initial Commit based on this tutorial <https://www.digitalocean.com/community/tutorials/how-to-create-a-twitterbot-with-python-3-and-the-tweepy-library>`_
+- Initial Commit based on this tutorial <https://www.digitalocean.com/community/tutorials/how-to-create-a-twitterbot-with-python-3-and-the-tweepy-library>
